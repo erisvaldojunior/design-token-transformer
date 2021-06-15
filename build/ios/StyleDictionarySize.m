@@ -3,7 +3,7 @@
 // StyleDictionarySize.m
 //
 // Do not edit directly
-// Generated on Tue, 15 Jun 2021 21:08:00 GMT
+// Generated on Tue, 15 Jun 2021 21:10:34 GMT
 //
 
 #import "StyleDictionarySize.h"
@@ -139,7 +139,7 @@ float const GridMultiple7SectionSize = 8;
 float const GridSingleSectionSize = 11;
 float const GridSingleGutterSize = 20;
 float const GridSingleCount = 5;
-float const BodyH3FontSize = 20;
+float const BodyH3FontSize = 24;
 float const BodyH3FontWeight = 700;
 float const BodyH3LetterSpacing = 2;
 float const BodyH3LineHeight = 160;

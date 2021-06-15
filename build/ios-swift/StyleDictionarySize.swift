@@ -3,7 +3,7 @@
 // StyleDictionarySize.swift
 //
 // Do not edit directly
-// Generated on Tue, 15 Jun 2021 21:08:00 GMT
+// Generated on Tue, 15 Jun 2021 21:10:34 GMT
 //
 
 import UIKit
@@ -14,7 +14,7 @@ public enum StyleDictionarySize {
     public static let extraBoldCondensedItalicLetterSpacing = 0
     public static let extraBoldCondensedItalicParagraphIndent = 0
     public static let extraBoldCondensedItalicParagraphSpacing = 0
-    public static let h3FontSize = 20
+    public static let h3FontSize = 24
     public static let h3FontWeight = 700
     public static let h3LetterSpacing = 2
     public static let h3LineHeight = 160

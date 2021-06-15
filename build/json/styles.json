@@ -209,7 +209,7 @@
   "GridSingleGutterSize": 20,
   "GridSingleAlignment": "center",
   "GridSingleCount": 5,
-  "BodyH3FontSize": 20,
+  "BodyH3FontSize": 24,
   "BodyH3TextDecoration": "none",
   "BodyH3FontFamily": "Akzidenz-Grotesk Pro",
   "BodyH3FontWeight": 700,

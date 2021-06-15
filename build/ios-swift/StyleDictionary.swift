@@ -3,7 +3,7 @@
 // StyleDictionary.swift
 //
 // Do not edit directly
-// Generated on Tue, 15 Jun 2021 21:08:00 GMT
+// Generated on Tue, 15 Jun 2021 21:10:34 GMT
 //
 
 
@@ -23,7 +23,7 @@ public class StyleDictionary {
     public static let bodyExtraBoldCondensedItalicTextCase = none
     public static let bodyExtraBoldCondensedItalicTextDecoration = none
     public static let bodyH3FontFamily = Akzidenz-Grotesk Pro
-    public static let bodyH3FontSize = 20
+    public static let bodyH3FontSize = 24
     public static let bodyH3FontStretch = condensed
     public static let bodyH3FontStyle = normal
     public static let bodyH3FontStyleOld = Bold Condensed
